@@ -21,6 +21,8 @@ This project uses **TensorFlow.js** to perform inference directly in the client'
 ## 🚀 Quick Start (Web Implementation)
 
 To embed this model into your own web project, use the following boilerplate code:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a735ac3c-56d4-4ef2-b714-ec2efae2f56a" />
+
 
 ### 1. Include Dependencies
 Add these scripts to your `index.html`:
