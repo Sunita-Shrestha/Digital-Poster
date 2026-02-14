@@ -1,9 +1,3 @@
-Here’s a **Markdown (.md) file** you can use to describe and document your Teachable Machine model (the one at the link you shared: `https://teachablemachine.withgoogle.com/models/aiHUQmOcm/`). That link is a *Teachable Machine model page*, a machine-learning model you can export and use in web or app projects. ([experiments.withgoogle.com][1])
-
-You can **copy this text into a file** named something like `README.md` to explain your model to others.
-
----
-
 ```markdown
 # Teachable Machine Model Documentation
 
@@ -98,8 +92,9 @@ To use your model:
 4. **Feed input** (images, audio, or pose data) to the model to classify.
 
 ---
---- My Model
-# Image Classification Model – Teachable Machine
+---
+# My Model
+## Image Classification Model – Teachable Machine
 
 ## 📌 Model Overview
 
@@ -112,7 +107,7 @@ The model is trained to classify images into four categories:
 3. Phone  
 4. Cup  
 
-The model was trained using custom image samples for each class.
+The model was trained using  image samples for each class.
 
 ---
 
@@ -157,6 +152,9 @@ The model predicts probabilities for each class.
 
 Example output:
 
+<img width="458" height="810" alt="phone" src="https://github.com/user-attachments/assets/f81762ef-471a-4a4e-bf00-1e9f2d750c7f" />
+<img width="418" height="860" alt="cup" src="https://github.com/user-attachments/assets/6a924715-81a7-4f7c-9f1f-9658f531377e" />
+
 
 
 ## 📝 Notes
@@ -174,16 +172,6 @@ Example output:
 ```
 
 ---
-
-If you want, I can also:
-
-✅ generate a **downloadable Markdown file** for your model  
-✅ add a **run/test section with real examples**  
-✅ help you host the model files (so they work in a website)  
-
-Just tell me what you need next! 😊
-::contentReference[oaicite:12]{index=12}
-```
 
 [1]: https://experiments.withgoogle.com/teachable-machine?utm_source=chatgpt.com "Teachable Machine by Google Creative Lab - Experiments with Google"
 [2]: https://deepwiki.com/googlecreativelab/teachablemachine-community/4-javascript-integration?utm_source=chatgpt.com "JavaScript Integration | googlecreativelab/teachablemachine-community | DeepWiki"
