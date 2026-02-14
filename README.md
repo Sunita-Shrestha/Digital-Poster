@@ -14,8 +14,8 @@ You can test the model directly at the link below:
 This project uses **TensorFlow.js** to perform inference directly in the client's browser, meaning no data is sent to a server for processing.
 
 ### Classified Categories:
-* **Class 1:** [Name of Class, e.g., "Phone"]
-* **Class 2:** [Name of Class, e.g., "Empty Hand"]
+* **Class 1:** ["Backgroud"]
+* **Class 2:** ["Empty Han"]
 * **Class 3:** [Name of Class, e.g., "Wallet"]
 
 ## 🚀 Quick Start (Web Implementation)
