@@ -98,6 +98,66 @@ To use your model:
 4. **Feed input** (images, audio, or pose data) to the model to classify.
 
 ---
+--- My Model
+# Image Classification Model – Teachable Machine
+
+## 📌 Model Overview
+
+This is an image classification model created using Google Teachable Machine.
+
+The model is trained to classify images into four categories:
+
+1. Background  
+2. Sunita  
+3. Phone  
+4. Cup  
+
+The model was trained using custom image samples for each class.
+
+---
+
+## 🧠 Model Type
+
+- Project Type: Image Project
+- Platform: Teachable Machine
+- Framework: TensorFlow.js
+- Number of Classes: 4
+
+---
+
+## 📂 Classes Description
+
+### 1️⃣ Background
+Images that do not contain the main target objects.
+
+### 2️⃣ Sunita
+Images containing Sunita.
+
+### 3️⃣ Phone
+Images containing a mobile phone.
+
+### 4️⃣ Cup
+Images containing a cup.
+
+---
+
+## ⚙️ Training Process
+
+1. Collected multiple image samples for each class.
+2. Uploaded images into Teachable Machine.
+3. Trained the model in the browser.
+4. Evaluated predictions.
+5. Exported the model for use in web applications.
+
+---
+
+## 📊 Model Output
+
+The model predicts probabilities for each class.
+
+Example output:
+
+
 
 ## 📝 Notes
 
