@@ -154,6 +154,7 @@ Example output:
 
 <img width="458" height="810" alt="phone" src="https://github.com/user-attachments/assets/f81762ef-471a-4a4e-bf00-1e9f2d750c7f" />
 <img width="458" height="810" alt="cup" src="https://github.com/user-attachments/assets/6a924715-81a7-4f7c-9f1f-9658f531377e" />
+
 <img width="435" height="816" alt="both-phone-cup" src="https://github.com/user-attachments/assets/c83a3082-a6c5-4f65-b4a5-6896095d4083" />
 
 
